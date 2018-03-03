@@ -1,3 +1,2 @@
 # DiscordBot
-*Two Simple Commands   
-*Plan to add more
+Two Simple Commands -> Plan to add more
