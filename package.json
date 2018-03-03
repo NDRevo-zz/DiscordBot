@@ -1,0 +1,11 @@
+{
+  "name": "revo",
+  "version": "0.0.1",
+  "description": "Everything Discord Bot",
+  "main": "bot.js",
+  "author": "Noe Duran",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
